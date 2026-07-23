@@ -6,10 +6,9 @@ Email Me 👉 ✉️ **harshhhhvardhan@gmail.com** For Collaboration/Project or 
 - 🔭 I’m currently working on AI & Cyber Security Projects
 - 🌱 I’m currently learning Data Structures & Algorithms and Advanced Machine Learning
 - 👯 I’m looking to collaborate on AI/ML and Cyber Security Projects
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 Ask me about Python, Machine Learning, Cyber Security, DBMS, OS, and CN
 - 📫 Connect with me on LinkedIn
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** Harsh Sir
 - ⚡ Fun fact: I enjoy building AI-powered solutions for real-world problems
 
 - ## 🌐 Socials:
