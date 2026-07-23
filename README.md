@@ -3,7 +3,7 @@
 **A passionate alml Engineer || DevOps Engineer || Harsh Admin from India**
 
 Email Me 👉 ✉️ **harshhhhvardhan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 🔭 **I’m currently working on AI & Cyber Security Projects
+- 🔭 I’m currently working on AI & Cyber Security Projects
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
