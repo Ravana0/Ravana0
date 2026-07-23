@@ -4,13 +4,13 @@
 
 Email Me 👉 ✉️ **harshhhhvardhan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🔭 I’m currently working on AI & Cyber Security Projects
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🌱 I’m currently learning Data Structures & Algorithms and Advanced Machine Learning
+- 👯 I’m looking to collaborate on AI/ML and Cyber Security Projects
 - 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 💬 Ask me about Python, Machine Learning, Cyber Security, DBMS, OS, and CN
+- 📫 Connect with me on LinkedIn
 - 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ Fun fact: I enjoy building AI-powered solutions for real-world problems
 
 - ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yuDgQgEtQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ramsetu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-9394921b7/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshhhhvardhan@gmail.com) 
